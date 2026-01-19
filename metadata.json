@@ -1,0 +1,7 @@
+{
+  "name": "Empire AI Branded QR Generator",
+  "description": "A high-resolution, professional-grade QR code generator with custom branding, logo integration, and stylized modules.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
